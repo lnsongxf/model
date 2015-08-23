@@ -1,6 +1,6 @@
 # Module
 
-Repository for the presentation of the generalized Roy model. The accompanying lecture is available [online](http://nbviewer.ipython.org/github/grmToolbox/model/blob/master/lecture/lecture.ipynb).
+Repository for the presentation of the generalized Roy model. The accompanying lecture is available [here](http://nbviewer.ipython.org/github/grmToolbox/model/blob/master/lecture/lecture.ipynb).
 
 Contact:
 
